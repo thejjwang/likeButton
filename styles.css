@@ -1,0 +1,26 @@
+div {
+    margin-right: auto;
+    margin-left:auto;
+}
+img {
+    width: 500px;
+    height: 500px;
+}
+@keyframes example {
+    0% {background-color: red;}
+    25% {background-color: yellow;}
+    50%  {background-color: blue;}
+    100% {background-color: green;}
+  }
+
+body {
+    text-align: center;
+    text-shadow: 2px 2px red;
+    animation-name: example;
+    animation-duration: 10s;
+}
+.button:hover {
+    background-color: purple;
+    color: white;
+}
+

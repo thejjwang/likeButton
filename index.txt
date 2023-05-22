@@ -1,0 +1,5 @@
+user gets on the page
+select between happy, sad, excited, bored
+button next select menu
+click button will give a quote based on your mood
+
